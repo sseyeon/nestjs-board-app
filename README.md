@@ -11,3 +11,6 @@
 - 기능 수정 : modify [기능]
 - 기능 삭제 : delete [기능]
 - 기능은 영문자 대문자로 시작
+
+## Study Link
+https://sseyeon.notion.site/Inflearn-NestJS-9dd3d9503a514d1e80403fc43cf676dd?pvs=4
